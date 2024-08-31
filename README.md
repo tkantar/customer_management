@@ -1,4 +1,4 @@
-Customer Management Project
+Customer Management Project;
 This project is a simple customer management application developed with Spring Boot for the backend and React for the frontend. Postgres is used as the database.
 
 Prerequisites

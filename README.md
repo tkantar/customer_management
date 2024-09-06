@@ -1,8 +1,8 @@
 Customer Management Project<br/>
 This project is a simple customer management application developed with Spring Boot for the backend and React for the frontend. Postgres is used as the database.<br/>
 
-Prerequisites
-Before running the project, make sure you have the following prerequisites installed on your system:
+Prerequisites<br/>
+Before running the project, make sure you have the following prerequisites installed on your system:<br/>
 
 Java 11 or higher
 Maven for dependency management in the backend
